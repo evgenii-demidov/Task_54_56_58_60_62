@@ -1,6 +1,5 @@
 ﻿Console.Clear();
-Console.WriteLine($"Задача 62: Заполните спирально массив 4 на 4.");
-
+Console.WriteLine($"Заполните спирально массив 4 на 4.");
 int n = 4;
 int[,] sqareMatrix = new int[n, n];
 
